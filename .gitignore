@@ -1,0 +1,15 @@
+# Compiled Binaries
+*.exe
+*.o
+*.out
+*.obj
+
+# IDE Folders
+.vscode/
+.vs/
+bin/
+obj/
+
+# Database files (Optional)
+# Remove the # below if you want users to start with a fresh DB every time
+# *.csv
