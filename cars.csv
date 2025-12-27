@@ -1,0 +1,19 @@
+Category, Availability, Discount, ID, Make, Model, Year, Rent per day
+Sedan,Available,15%,1,    Toyota,  Corolla,2024,7500
+SUV,Available,20%,2,    Toyota,  Land Cruiser,2012,15000
+Hatchback,Available,10%,3,    Toyota,  Yaris HB,2020,4500
+Sedan,Unavailable,15%,4,  Honda,  Grace,2020,6500
+SUV,Available,20%,5,  Toyota,  LC Prado,2018,14000
+Hatchback,Available,10%,6,  Suzuki,  Swift,2020,6000
+Sedan,Available,15%,7,  Honda,  Civic,2024,8000
+SUV,Available,20%,8,  Nissan ,  Patrol,2022,15500
+Hatchback,Available,10%,9,  Suzuki,  Alto,2023,4000
+Sedan,Available,15%,10,  Mitsubishi,  Lancer,2020,8500
+SUV,Available,20%,11,  Lexus,  LX,2022,16000
+Hatchback,Available,10%,12,  Toyota,  Yaris HB,2023,5000
+Sedan,Unavailable,15%,13,  Toyota,  Crown,2012,9500
+SUV,Available,20%,14,  Mitsubishi,  Pajero,2018,13500
+Hatchback,Available,10%,15,  Toyota,  Prius C,2020,5000
+Sedan,Available,15%,16, Toyota, Camry,2017,8700
+Sedan,Unavailable,15%,17,Toyota,Mark II,2010,9000
+Hatchback,Available,10%,18,Suzuki,WagonR,2023,4000
